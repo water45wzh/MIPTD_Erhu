@@ -1,7 +1,6 @@
-Code for Paper MUSICAL INSTRUMENT PLAYING TECHNIQUE DETECTION BASED ON FCN: USING CHINESE BOWED-STRINGED INSTRUMENT AS AN EXAMPLE
+# Musical Instrument Playing Technique Detection
 
-https://arxiv.org/abs/1910.09021
+Code for paper [Musical Instrument Playing Technique Detection Based on FCN: Using Chinese Bowed-Stringed Instrument as an Example][https://arxiv.org/abs/1910.09021].
 
-Submitted to ICASSP 2020.
+Dataset can be found [here][https://zenodo.org/record/4320991#.X9d8YukzZcA].
 
-To be constructed.
